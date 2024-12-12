@@ -1,6 +1,11 @@
 # MERN Team Project
 ## MERN Team Project
 
+Features:
+- User Authentication
+- Dashboard
+- Real-time Chat
+
 Tech Stack:
 - MongoDB
 - Express
@@ -8,5 +13,5 @@ Tech Stack:
 - Node.js
 
 Team Members:
-- Alice
-- Bob
+- Alice (Team Member 1)
+- Bob (Team Member 2)
